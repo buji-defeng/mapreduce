@@ -26,7 +26,7 @@
 
                         <archive>
                             <manifest>
-                                <mainClass>cn.hx.test.WordClass</mainClass>
+                                <mainClass>feihongtaxue.MyWritable</mainClass>
                                 <addClasspath>true</addClasspath>
                                 <classpathPrefix>lib/</classpathPrefix>
                             </manifest>

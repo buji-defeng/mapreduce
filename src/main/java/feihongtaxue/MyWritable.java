@@ -12,7 +12,6 @@ import java.io.IOException;
 
 public class MyWritable {
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
-        args = new String[]{"C:\\Users\\15877\\Desktop\\极客大数据\\课件\\HTTP_20130313143750.dat","C:\\Users\\15877\\Desktop\\极客大数据\\课件\\1.txt"};
 
         //1.获取job信息
         Configuration conf = new Configuration();
